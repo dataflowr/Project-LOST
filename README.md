@@ -1,3 +1,10 @@
+# DL-DIY potential project ideas
+- extending the object discovery mechanism from attention maps to discover multiple objects in an image (higher resolution image)
+- testing out this mechanism to other types of data: street-view, medical, etc.
+
+
+----------------------
+
 # LOST 
 Pytorch implementation of the unsupervised object discovery method **LOST**. More details can be found in the paper:
 
