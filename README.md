@@ -1,7 +1,7 @@
 # DL-DIY potential project ideas
 - extending the object discovery mechanism from attention maps to discover multiple objects in an image (higher resolution image)
 - testing out this mechanism to other types of data: street-view, medical, etc.
-
+- test out on other Transformer models beyond DINO: MAE, MSN, AttMask, MoCo-V3, iBOT
 
 ----------------------
 
